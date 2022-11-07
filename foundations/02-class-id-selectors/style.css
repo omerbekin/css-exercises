@@ -1,0 +1,19 @@
+.odd-element {
+    background-color: #e36666;
+    font-family: Verdana, DejaVu, sans-serif;
+}
+
+#second-element {
+    color: #181a96;
+    font-size: 36px;
+}
+
+#third-element {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: #8cde8f;
+    font-size: 24px;
+    font-weight: bold;
+}
