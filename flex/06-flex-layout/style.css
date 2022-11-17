@@ -59,10 +59,17 @@ a {
   text-align: center;
 }
 
+button {
+  padding: 8px;
+  padding-left: 12px;
+  padding-right: 14px;
+}
+
 .footer {
   display: flex;
   justify-content: space-between;
   margin-right: 20px;
+  background-color: #EEEEEE;
 }
 
 body {
