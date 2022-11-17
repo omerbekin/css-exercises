@@ -33,7 +33,7 @@ ul {
 }
 
 a {
-  color:#2E3440;
+  color: #2E3440;
   text-decoration: none;
 }
 
@@ -53,5 +53,15 @@ a {
   display: flex;
   justify-content: flex-end;
   gap: 20px;
+}
+
+.content {
+  text-align: center;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 20px;
 }
 
