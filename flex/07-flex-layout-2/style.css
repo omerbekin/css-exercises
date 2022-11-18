@@ -45,7 +45,11 @@ body {
 
 .body-container {
   display: flex;
-  justify-content: space-between;
+}
+
+.sidebar {
+  display: flex;
+  flex-shrink: 0;
 }
 
 .card-container {
